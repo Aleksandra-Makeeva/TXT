@@ -1,0 +1,12 @@
+id 1
+Title bug_report
+Severity Minor
+Priority Low
+Environment Honor 8a Android 9.0
+STR:
+    step 1
+    step 2
+    
+AR : App open
+ER Error
+Attachments : Link
