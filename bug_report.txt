@@ -5,11 +5,11 @@ priority High
 status New
 author Makeeva Aleksandra Sergeevna
 assigned to Ivanov
+environment Honor 8a Android 9.0
 description
-  environment Honor 8a Android 9.0
   str
     step_1 install app
     step_2 open app
- ar App open 
- er Error
+ er App open 
+ ar Error
  attachment name.jpg
